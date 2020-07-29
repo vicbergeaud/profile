@@ -120,3 +120,7 @@ a.fa.fa-github:hover {
 	box-shadow: 2px 2px 3px grey;
 	padding: 10px;
 }
+
+#hobbies {
+	list-style-type: none;
+}
