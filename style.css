@@ -1,0 +1,122 @@
+@import url("http://fonts.googleapis.com/css?family=Anton:400,300,700|Poppins:300,400,500,700");
+@import url("http://fonts.googleapis.com/css?family=Noto+Sans+TC:400,300,700|Poppins:300,400,500,700");
+
+
+body {
+  background-color: #eeeeee;
+  font-family: Calibri;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+
+h1 {
+	color: #595238;
+	font-family: Anton;
+	text-align: center;
+	padding-top: 20px;
+}
+
+h3 {
+	color: #322f3d;
+	font-family: Noto Sans TC;
+	font-size: 20px;
+	text-align: center;
+}
+
+h4 {
+	
+	color: #411f1f;
+	font-family: Anton ;
+	font-size: 20px;
+	letter-spacing: 5px;
+	margin-bottom: 10px;
+}
+
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 159px;
+  	height: 150px;
+  	border-radius: 50%;
+}
+
+
+
+.link {
+	color: white;
+	background-color: #59405c;
+	font-family: Noto Sans TC;
+	font-size: 15px;
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	padding: 10px 10px;
+  	width: 25%;
+  	text-decoration: none
+  }
+
+  .link:hover {
+  	color:white;
+  	background-color:black;
+  }
+
+.text {
+  	color: #838383;
+  	text-align: center;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 75%;
+  }
+
+a.fa.fa-facebook {
+	color: white;
+	background-color: blue;
+	font-size: 50px;
+	text-decoration: none;
+}
+
+a.fa.fa-github {
+	text-decoration: none;
+	font-size: 50px;
+	margin-left: 10px;
+}
+
+a.fa.fa-linkedin {
+
+	text-decoration: none;
+	font-size: 50px;
+	margin-left: 10px;
+	color: grey;
+	margin: 10px;
+}
+
+a.fa.fa-linkedin:hover {
+	 color:white;
+  	background-color:black;
+
+}
+
+a.fa.fa-facebook:hover {
+	 color:white;
+  	background-color:black;
+
+}
+
+a.fa.fa-github:hover {
+	 color:white;
+  	background-color:black;
+
+}
+.logo {
+	width: 50%;
+	text-align: center;
+}
+.card {
+	background-color: white;
+	margin: 20px 50px;
+	text-align: center;
+	box-shadow: 2px 2px 3px grey;
+	padding: 10px;
+}
